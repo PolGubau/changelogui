@@ -34,11 +34,12 @@
 		"commander": "^13.0.0"
 	},
 	"devDependencies": {
-		"@polgubau/semantic-release-config": "^1.0.0",
 		"@biomejs/biome": "1.9.4",
 		"@polgubau/biome-config": "^1.0.0",
 		"@polgubau/git-cz-config": "^1.0.0",
-		"git-cz": "^4.9.0"
+		"@polgubau/semantic-release-config": "^1.0.0",
+		"git-cz": "^4.9.0",
+		"semantic-release": "^24.2.1"
 	},
 	"packageManager": "pnpm@9.15.0",
 	"publishConfig": {
