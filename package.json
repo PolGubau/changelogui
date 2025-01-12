@@ -12,13 +12,20 @@
 	},
 	"scripts": {
 		"dev": "vite",
-		"build": "vite build"
+		"build": "vite build",
+		"commit": "git-cz"
+	},
+	"config": {
+		"commitizen": {
+			"path": "git-cz"
+		}
 	},
 	"author": "Pol Gubau Amores",
 	"type": "module",
 	"description": "",
 	"dependencies": {
 		"@octokit/rest": "^21.1.0",
+		"@polgubau/semantic-release-config": "^1.0.0",
 		"autoprefixer": "^10.4.20",
 		"chalk": "^5.4.1",
 		"commander": "^13.0.0",
@@ -27,5 +34,9 @@
 		"react-dom": "^19.0.0",
 		"tailwindcss": "^3.4.17",
 		"vite": "^6.0.7"
+	},
+	"devDependencies": {
+		"@polgubau/git-cz-config": "^1.0.0",
+		"git-cz": "^4.9.0"
 	}
 }
