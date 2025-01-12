@@ -16,6 +16,7 @@ jobs:
     uses: PolGubau/shared-actions/.github/workflows/reusable-pnpm-setup.yml@main
 
   publish-packages:
+    timeout-minutes: 5
     name: Publish packages
     needs: setup
     runs-on: ubuntu-latest
@@ -25,8 +26,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Nx set shas
-        uses: nrwl/nx-set-shas@v4
 
       - name: Restore pnpm store and install dependencies
         uses: PolGubau/shared-actions/.github/actions/pnpm@main
