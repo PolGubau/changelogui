@@ -28,7 +28,7 @@ jobs:
 
 
       - name: Restore pnpm store and install dependencies
-        run: pnpm install
+        run: npm i -g pnpm && pnpm install 
 
       - name: Publish to npm
         env:
