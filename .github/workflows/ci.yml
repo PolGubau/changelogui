@@ -28,7 +28,7 @@ jobs:
 
 
       - name: Restore pnpm store and install dependencies
-        uses: PolGubau/shared-actions/.github/actions/pnpm@main
+        run: pnpm install
 
       - name: Publish to npm
         env:
