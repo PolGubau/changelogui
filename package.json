@@ -2,24 +2,24 @@
 	"name": "@polgubau/changelogui",
 	"version": "1.0.2",
 	"private": false,
+	"description": "",
 	"license": "MIT",
-	"publishConfig": {
-		"access": "public"
-	},
+	"author": "Pol Gubau Amores",
+	"type": "module",
 	"main": "./bin/changelogui.js",
 	"bin": {
 		"changelogui": "./bin/changelogui.js"
 	},
 	"scripts": {
-		"dev": "vite",
 		"build": "vite build",
-		"commit": "git-cz",
-		"lint": "biome check .",
-		"lint-fix": "biome check --write .",
 		"check": "biome lint --write .",
-		"lint-check": "biome lint ./src",
-		"format-check": "biome format ./src",
+		"commit": "git-cz",
+		"dev": "vite",
 		"format": "biome format --write ./src",
+		"format-check": "biome format ./src",
+		"lint": "biome check .",
+		"lint-check": "biome lint ./src",
+		"lint-fix": "biome check --write .",
 		"release": "semantic-release"
 	},
 	"config": {
@@ -27,9 +27,6 @@
 			"path": "git-cz"
 		}
 	},
-	"author": "Pol Gubau Amores",
-	"type": "module",
-	"description": "",
 	"dependencies": {
 		"@octokit/rest": "^21.1.0",
 		"@polgubau/semantic-release-config": "^1.0.0",
@@ -47,5 +44,9 @@
 		"@polgubau/biome-config": "^1.0.0",
 		"@polgubau/git-cz-config": "^1.0.0",
 		"git-cz": "^4.9.0"
+	},
+	"packageManager": "pnpm@9.15.0",
+	"publishConfig": {
+		"access": "public"
 	}
 }
