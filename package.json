@@ -1,5 +1,5 @@
 {
-	"name": "@pol-gubau/changelogui",
+	"name": "@polgubau/changelogui",
 	"version": "1.0.2",
 	"private": false,
 	"license": "MIT",
@@ -13,7 +13,14 @@
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
-		"commit": "git-cz"
+		"commit": "git-cz",
+		"lint": "biome check .",
+		"lint-fix": "biome check --write .",
+		"check": "biome lint --write .",
+		"lint-check": "biome lint ./src",
+		"format-check": "biome format ./src",
+		"format": "biome format --write ./src",
+		"release": "semantic-release"
 	},
 	"config": {
 		"commitizen": {
@@ -36,6 +43,8 @@
 		"vite": "^6.0.7"
 	},
 	"devDependencies": {
+		"@biomejs/biome": "1.9.4",
+		"@polgubau/biome-config": "^1.0.0",
 		"@polgubau/git-cz-config": "^1.0.0",
 		"git-cz": "^4.9.0"
 	}

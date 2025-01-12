@@ -31,15 +31,8 @@ jobs:
       - name: Restore pnpm store and install dependencies
         uses: PolGubau/shared-actions/.github/actions/pnpm@main
 
-      - name: Build
-        run: pnpm nx run-many -target=build --parallel=3
-
       - name: Publish to npm
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
-        run: |
-          # Run semantic-release for each package that has changes
-          pnpm nx run-many -target=release
-          # Run semantic-release-plus for workspace that has changes
-          pnpm semantic-release-plus
+        run: pnpm release
