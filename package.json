@@ -29,17 +29,12 @@
 	},
 	"dependencies": {
 		"@octokit/rest": "^21.1.0",
-		"@polgubau/semantic-release-config": "^1.0.0",
 		"autoprefixer": "^10.4.20",
 		"chalk": "^5.4.1",
-		"commander": "^13.0.0",
-		"postcss": "^8.4.49",
-		"react": "^19.0.0",
-		"react-dom": "^19.0.0",
-		"tailwindcss": "^3.4.17",
-		"vite": "^6.0.7"
+		"commander": "^13.0.0"
 	},
 	"devDependencies": {
+		"@polgubau/semantic-release-config": "^1.0.0",
 		"@biomejs/biome": "1.9.4",
 		"@polgubau/biome-config": "^1.0.0",
 		"@polgubau/git-cz-config": "^1.0.0",
