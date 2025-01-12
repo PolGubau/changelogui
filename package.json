@@ -1,6 +1,11 @@
 {
-	"name": "changelogui",
+	"name": "@pol-gubau/changelogui",
 	"version": "1.0.0",
+	"private": false,
+	"license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	},
 	"main": "./bin/changelogui.js",
 	"bin": {
 		"changelogui": "./bin/changelogui.js"
@@ -9,9 +14,7 @@
 		"dev": "vite",
 		"build": "vite build"
 	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
+	"author": "Pol Gubau Amores",
 	"type": "module",
 	"description": "",
 	"dependencies": {

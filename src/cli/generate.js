@@ -21,7 +21,7 @@ function buildReactApp() {
 
 export async function generateStaticPage(data, outputDir, theme) {
 	// Guarda los datos en la carpeta `data` del proyecto root
-	const dataDir = path.join(process.cwd(), "data");
+	const dataDir = path.join(process.cwd(), ".changelogui");
 	fs.mkdirSync(dataDir, { recursive: true });
 	fs.writeFileSync(
 		path.join(dataDir, "commits.json"),
