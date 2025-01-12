@@ -1,0 +1,6 @@
+{
+	"repo": "my-org/my-repo",
+	"githubToken": "your-token",
+	"output": "./dist/changelog",
+	"theme": "dark"
+}
