@@ -1,6 +1,5 @@
 {
-	"repo": "my-org/my-repo",
-	"githubToken": "your-token",
+	"repo": "tripelseapp/tripelse",
 	"output": "./dist/changelog",
 	"theme": "dark"
 }

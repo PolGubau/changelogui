@@ -1,0 +1,2559 @@
+{
+  "commits": [
+    {
+      "sha": "2efebc40e6ea4111800205cf7468329c83301c7a",
+      "node_id": "C_kwDOMQnG39oAKDJlZmViYzQwZTZlYTQxMTE4MDAyMDVjZjc0NjgzMjljODMzMDFjN2E",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-24T18:56:30Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-24T18:56:30Z"
+        },
+        "message": "chore: Update Dockerfile and package.json configurations",
+        "tree": {
+          "sha": "0b4635b8c0a8fa2fadf5705172df974931c01d13",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/0b4635b8c0a8fa2fadf5705172df974931c01d13"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/2efebc40e6ea4111800205cf7468329c83301c7a",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/2efebc40e6ea4111800205cf7468329c83301c7a",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/2efebc40e6ea4111800205cf7468329c83301c7a",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/2efebc40e6ea4111800205cf7468329c83301c7a/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "c9d45868a3b3c01497005438019300005b5e17cf",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/c9d45868a3b3c01497005438019300005b5e17cf",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/c9d45868a3b3c01497005438019300005b5e17cf"
+        }
+      ]
+    },
+    {
+      "sha": "c9d45868a3b3c01497005438019300005b5e17cf",
+      "node_id": "C_kwDOMQnG39oAKGM5ZDQ1ODY4YTNiM2MwMTQ5NzAwNTQzODAxOTMwMDAwNWI1ZTE3Y2Y",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-24T11:08:46Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-24T11:08:46Z"
+        },
+        "message": "chore: Update Dockerfile and package.json configurations",
+        "tree": {
+          "sha": "353e6e0e023ca5b653190975c710e0f2199a1ae3",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/353e6e0e023ca5b653190975c710e0f2199a1ae3"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/c9d45868a3b3c01497005438019300005b5e17cf",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/c9d45868a3b3c01497005438019300005b5e17cf",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/c9d45868a3b3c01497005438019300005b5e17cf",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/c9d45868a3b3c01497005438019300005b5e17cf/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "e450339125064bb633474369b8e15d06e5bdd365",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/e450339125064bb633474369b8e15d06e5bdd365",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/e450339125064bb633474369b8e15d06e5bdd365"
+        }
+      ]
+    },
+    {
+      "sha": "e450339125064bb633474369b8e15d06e5bdd365",
+      "node_id": "C_kwDOMQnG39oAKGU0NTAzMzkxMjUwNjRiYjYzMzQ3NDM2OWI4ZTE1ZDA2ZTViZGQzNjU",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-23T13:38:24Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-23T13:38:24Z"
+        },
+        "message": "chore: Refactor api-call.ts to improve code organization",
+        "tree": {
+          "sha": "2349b75bb66956a6177c372f5fbb653882d2954b",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/2349b75bb66956a6177c372f5fbb653882d2954b"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/e450339125064bb633474369b8e15d06e5bdd365",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/e450339125064bb633474369b8e15d06e5bdd365",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/e450339125064bb633474369b8e15d06e5bdd365",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/e450339125064bb633474369b8e15d06e5bdd365/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2f7776ed6abcfa8a4065468951c34f9d4d03b4ce",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/2f7776ed6abcfa8a4065468951c34f9d4d03b4ce",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/2f7776ed6abcfa8a4065468951c34f9d4d03b4ce"
+        }
+      ]
+    },
+    {
+      "sha": "2f7776ed6abcfa8a4065468951c34f9d4d03b4ce",
+      "node_id": "C_kwDOMQnG39oAKDJmNzc3NmVkNmFiY2ZhOGE0MDY1NDY4OTUxYzM0ZjlkNGQwM2I0Y2U",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T15:22:30Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T15:22:30Z"
+        },
+        "message": "Pol Gubau; MW-",
+        "tree": {
+          "sha": "930f4c6f67ebc4a6644d774b4117b8f5a58f36a6",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/930f4c6f67ebc4a6644d774b4117b8f5a58f36a6"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/2f7776ed6abcfa8a4065468951c34f9d4d03b4ce",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/2f7776ed6abcfa8a4065468951c34f9d4d03b4ce",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/2f7776ed6abcfa8a4065468951c34f9d4d03b4ce",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/2f7776ed6abcfa8a4065468951c34f9d4d03b4ce/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "38899b8078ba545376e1354be27f45fd214e0b69",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/38899b8078ba545376e1354be27f45fd214e0b69",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/38899b8078ba545376e1354be27f45fd214e0b69"
+        }
+      ]
+    },
+    {
+      "sha": "38899b8078ba545376e1354be27f45fd214e0b69",
+      "node_id": "C_kwDOMQnG39oAKDM4ODk5YjgwNzhiYTU0NTM3NmUxMzU0YmUyN2Y0NWZkMjE0ZTBiNjk",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T15:19:30Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T15:19:30Z"
+        },
+        "message": "Pol Gubau; MW-",
+        "tree": {
+          "sha": "c5b9116c616b5a9af73fafea2a3e6c9bd6aa97ff",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/c5b9116c616b5a9af73fafea2a3e6c9bd6aa97ff"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/38899b8078ba545376e1354be27f45fd214e0b69",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/38899b8078ba545376e1354be27f45fd214e0b69",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/38899b8078ba545376e1354be27f45fd214e0b69",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/38899b8078ba545376e1354be27f45fd214e0b69/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "e313d9dd37704a56180208338fcccb3506398976",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/e313d9dd37704a56180208338fcccb3506398976",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/e313d9dd37704a56180208338fcccb3506398976"
+        }
+      ]
+    },
+    {
+      "sha": "e313d9dd37704a56180208338fcccb3506398976",
+      "node_id": "C_kwDOMQnG39oAKGUzMTNkOWRkMzc3MDRhNTYxODAyMDgzMzhmY2NjYjM1MDYzOTg5NzY",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T14:52:46Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T14:52:46Z"
+        },
+        "message": "chore: Update Dockerfile and package.json configurations",
+        "tree": {
+          "sha": "30599a29fa71bfdf3f2c133928553e84db118b32",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/30599a29fa71bfdf3f2c133928553e84db118b32"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/e313d9dd37704a56180208338fcccb3506398976",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/e313d9dd37704a56180208338fcccb3506398976",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/e313d9dd37704a56180208338fcccb3506398976",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/e313d9dd37704a56180208338fcccb3506398976/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "00de9b78d267099f60f2498a196c2d0d6cb9fadd",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/00de9b78d267099f60f2498a196c2d0d6cb9fadd",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/00de9b78d267099f60f2498a196c2d0d6cb9fadd"
+        }
+      ]
+    },
+    {
+      "sha": "00de9b78d267099f60f2498a196c2d0d6cb9fadd",
+      "node_id": "C_kwDOMQnG39oAKDAwZGU5Yjc4ZDI2NzA5OWY2MGYyNDk4YTE5NmMyZDBkNmNiOWZhZGQ",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T14:17:14Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T14:17:14Z"
+        },
+        "message": "Pol Gubau; MW-",
+        "tree": {
+          "sha": "262233c2864252e1462b025ebfa34641d4a5929b",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/262233c2864252e1462b025ebfa34641d4a5929b"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/00de9b78d267099f60f2498a196c2d0d6cb9fadd",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/00de9b78d267099f60f2498a196c2d0d6cb9fadd",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/00de9b78d267099f60f2498a196c2d0d6cb9fadd",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/00de9b78d267099f60f2498a196c2d0d6cb9fadd/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "a35a094774ccfc270d79f97c0ed6214578ff998f",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/a35a094774ccfc270d79f97c0ed6214578ff998f",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/a35a094774ccfc270d79f97c0ed6214578ff998f"
+        }
+      ]
+    },
+    {
+      "sha": "a35a094774ccfc270d79f97c0ed6214578ff998f",
+      "node_id": "C_kwDOMQnG39oAKGEzNWEwOTQ3NzRjY2ZjMjcwZDc5Zjk3YzBlZDYyMTQ1NzhmZjk5OGY",
+      "commit": {
+        "author": {
+          "name": "Turbobot",
+          "email": "turbobot@vercel.com",
+          "date": "2024-08-22T13:57:40Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T13:57:40Z"
+        },
+        "message": "feat(create-turbo): install dependencies",
+        "tree": {
+          "sha": "6655a3c5bf9126e3f9fb4df866ce927614042e20",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/6655a3c5bf9126e3f9fb4df866ce927614042e20"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/a35a094774ccfc270d79f97c0ed6214578ff998f",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/a35a094774ccfc270d79f97c0ed6214578ff998f",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/a35a094774ccfc270d79f97c0ed6214578ff998f",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/a35a094774ccfc270d79f97c0ed6214578ff998f/comments",
+      "author": {
+        "login": "turbobot-temp",
+        "id": 145653950,
+        "node_id": "U_kgDOCK6Avg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/145653950?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/turbobot-temp",
+        "html_url": "https://github.com/turbobot-temp",
+        "followers_url": "https://api.github.com/users/turbobot-temp/followers",
+        "following_url": "https://api.github.com/users/turbobot-temp/following{/other_user}",
+        "gists_url": "https://api.github.com/users/turbobot-temp/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/turbobot-temp/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/turbobot-temp/subscriptions",
+        "organizations_url": "https://api.github.com/users/turbobot-temp/orgs",
+        "repos_url": "https://api.github.com/users/turbobot-temp/repos",
+        "events_url": "https://api.github.com/users/turbobot-temp/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/turbobot-temp/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "65ad5c9cd03d5aac8e051cffb6bb134f475db9b3",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/65ad5c9cd03d5aac8e051cffb6bb134f475db9b3",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/65ad5c9cd03d5aac8e051cffb6bb134f475db9b3"
+        }
+      ]
+    },
+    {
+      "sha": "65ad5c9cd03d5aac8e051cffb6bb134f475db9b3",
+      "node_id": "C_kwDOMQnG39oAKDY1YWQ1YzljZDAzZDVhYWM4ZTA1MWNmZmI2YmIxMzRmNDc1ZGI5YjM",
+      "commit": {
+        "author": {
+          "name": "Turbobot",
+          "email": "turbobot@vercel.com",
+          "date": "2024-08-22T13:57:15Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T13:57:15Z"
+        },
+        "message": "feat(create-turbo): apply pnpm-eslint transform",
+        "tree": {
+          "sha": "f0344e1773eaa99c492461e25e2666bd09a20ae5",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/f0344e1773eaa99c492461e25e2666bd09a20ae5"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/65ad5c9cd03d5aac8e051cffb6bb134f475db9b3",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/65ad5c9cd03d5aac8e051cffb6bb134f475db9b3",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/65ad5c9cd03d5aac8e051cffb6bb134f475db9b3",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/65ad5c9cd03d5aac8e051cffb6bb134f475db9b3/comments",
+      "author": {
+        "login": "turbobot-temp",
+        "id": 145653950,
+        "node_id": "U_kgDOCK6Avg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/145653950?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/turbobot-temp",
+        "html_url": "https://github.com/turbobot-temp",
+        "followers_url": "https://api.github.com/users/turbobot-temp/followers",
+        "following_url": "https://api.github.com/users/turbobot-temp/following{/other_user}",
+        "gists_url": "https://api.github.com/users/turbobot-temp/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/turbobot-temp/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/turbobot-temp/subscriptions",
+        "organizations_url": "https://api.github.com/users/turbobot-temp/orgs",
+        "repos_url": "https://api.github.com/users/turbobot-temp/repos",
+        "events_url": "https://api.github.com/users/turbobot-temp/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/turbobot-temp/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "43d5866f61b1be9a8da30a04cdbec02c5718816e",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/43d5866f61b1be9a8da30a04cdbec02c5718816e",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/43d5866f61b1be9a8da30a04cdbec02c5718816e"
+        }
+      ]
+    },
+    {
+      "sha": "43d5866f61b1be9a8da30a04cdbec02c5718816e",
+      "node_id": "C_kwDOMQnG39oAKDQzZDU4NjZmNjFiMWJlOWE4ZGEzMGEwNGNkYmVjMDJjNTcxODgxNmU",
+      "commit": {
+        "author": {
+          "name": "Turbobot",
+          "email": "turbobot@vercel.com",
+          "date": "2024-08-22T13:57:15Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T13:57:15Z"
+        },
+        "message": "feat(create-turbo): apply official-starter transform",
+        "tree": {
+          "sha": "a17263bf081edae158ad0837aea46c576c90d54c",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/a17263bf081edae158ad0837aea46c576c90d54c"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/43d5866f61b1be9a8da30a04cdbec02c5718816e",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/43d5866f61b1be9a8da30a04cdbec02c5718816e",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/43d5866f61b1be9a8da30a04cdbec02c5718816e",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/43d5866f61b1be9a8da30a04cdbec02c5718816e/comments",
+      "author": {
+        "login": "turbobot-temp",
+        "id": 145653950,
+        "node_id": "U_kgDOCK6Avg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/145653950?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/turbobot-temp",
+        "html_url": "https://github.com/turbobot-temp",
+        "followers_url": "https://api.github.com/users/turbobot-temp/followers",
+        "following_url": "https://api.github.com/users/turbobot-temp/following{/other_user}",
+        "gists_url": "https://api.github.com/users/turbobot-temp/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/turbobot-temp/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/turbobot-temp/subscriptions",
+        "organizations_url": "https://api.github.com/users/turbobot-temp/orgs",
+        "repos_url": "https://api.github.com/users/turbobot-temp/repos",
+        "events_url": "https://api.github.com/users/turbobot-temp/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/turbobot-temp/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "f024b7b06792dc34df0ca3fbb09ce5e7d037cee5",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/f024b7b06792dc34df0ca3fbb09ce5e7d037cee5",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/f024b7b06792dc34df0ca3fbb09ce5e7d037cee5"
+        }
+      ]
+    },
+    {
+      "sha": "f024b7b06792dc34df0ca3fbb09ce5e7d037cee5",
+      "node_id": "C_kwDOMQnG39oAKGYwMjRiN2IwNjc5MmRjMzRkZjBjYTNmYmIwOWNlNWU3ZDAzN2NlZTU",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T13:56:02Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T13:56:02Z"
+        },
+        "message": "Pol Gubau; MW-",
+        "tree": {
+          "sha": "f89e353d9f0cd750aae57ab77a33a5224afc9205",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/f89e353d9f0cd750aae57ab77a33a5224afc9205"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/f024b7b06792dc34df0ca3fbb09ce5e7d037cee5",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/f024b7b06792dc34df0ca3fbb09ce5e7d037cee5",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/f024b7b06792dc34df0ca3fbb09ce5e7d037cee5",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/f024b7b06792dc34df0ca3fbb09ce5e7d037cee5/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "897d6191a75ca034108056613cc83113549f3008",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/897d6191a75ca034108056613cc83113549f3008",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/897d6191a75ca034108056613cc83113549f3008"
+        }
+      ]
+    },
+    {
+      "sha": "897d6191a75ca034108056613cc83113549f3008",
+      "node_id": "C_kwDOMQnG39oAKDg5N2Q2MTkxYTc1Y2EwMzQxMDgwNTY2MTNjYzgzMTEzNTQ5ZjMwMDg",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T13:32:34Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T13:32:34Z"
+        },
+        "message": "Pol Gubau; MW-",
+        "tree": {
+          "sha": "4a07ddd602cc695d20d9f4793d578e0d8a39f05b",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/4a07ddd602cc695d20d9f4793d578e0d8a39f05b"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/897d6191a75ca034108056613cc83113549f3008",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/897d6191a75ca034108056613cc83113549f3008",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/897d6191a75ca034108056613cc83113549f3008",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/897d6191a75ca034108056613cc83113549f3008/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "3fe5016ecaf3f3189c5e43572abea088e5ce66fc",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/3fe5016ecaf3f3189c5e43572abea088e5ce66fc",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/3fe5016ecaf3f3189c5e43572abea088e5ce66fc"
+        }
+      ]
+    },
+    {
+      "sha": "3fe5016ecaf3f3189c5e43572abea088e5ce66fc",
+      "node_id": "C_kwDOMQnG39oAKDNmZTUwMTZlY2FmM2YzMTg5YzVlNDM1NzJhYmVhMDg4ZTVjZTY2ZmM",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T13:32:04Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-22T13:32:04Z"
+        },
+        "message": "Refactor TypeScript configuration files",
+        "tree": {
+          "sha": "259fa56385ced5ca0ed70ed78cb6ae1326783ce1",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/259fa56385ced5ca0ed70ed78cb6ae1326783ce1"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/3fe5016ecaf3f3189c5e43572abea088e5ce66fc",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/3fe5016ecaf3f3189c5e43572abea088e5ce66fc",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/3fe5016ecaf3f3189c5e43572abea088e5ce66fc",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/3fe5016ecaf3f3189c5e43572abea088e5ce66fc/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "61400c817f7e005f795645ba987a73a29fa211cb",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/61400c817f7e005f795645ba987a73a29fa211cb",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/61400c817f7e005f795645ba987a73a29fa211cb"
+        }
+      ]
+    },
+    {
+      "sha": "61400c817f7e005f795645ba987a73a29fa211cb",
+      "node_id": "C_kwDOMQnG39oAKDYxNDAwYzgxN2Y3ZTAwNWY3OTU2NDViYTk4N2E3M2EyOWZhMjExY2I",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-20T21:14:56Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-20T21:14:56Z"
+        },
+        "message": "Refactor login page to remove commented out code and improve error handling",
+        "tree": {
+          "sha": "0ed2e1bdb691aed3c2baafae7a330a0df125da34",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/0ed2e1bdb691aed3c2baafae7a330a0df125da34"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/61400c817f7e005f795645ba987a73a29fa211cb",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/61400c817f7e005f795645ba987a73a29fa211cb",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/61400c817f7e005f795645ba987a73a29fa211cb",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/61400c817f7e005f795645ba987a73a29fa211cb/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "d5a65d39df088b0332429f268c08be7a0671d176",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/d5a65d39df088b0332429f268c08be7a0671d176",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/d5a65d39df088b0332429f268c08be7a0671d176"
+        }
+      ]
+    },
+    {
+      "sha": "d5a65d39df088b0332429f268c08be7a0671d176",
+      "node_id": "C_kwDOMQnG39oAKGQ1YTY1ZDM5ZGYwODhiMDMzMjQyOWYyNjhjMDhiZTdhMDY3MWQxNzY",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-20T16:00:03Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-20T16:00:03Z"
+        },
+        "message": "Refactor login page to remove commented out code and improve error handling",
+        "tree": {
+          "sha": "23a0ec4286c31c5e7327a80eab504a126efabf21",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/23a0ec4286c31c5e7327a80eab504a126efabf21"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/d5a65d39df088b0332429f268c08be7a0671d176",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/d5a65d39df088b0332429f268c08be7a0671d176",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/d5a65d39df088b0332429f268c08be7a0671d176",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/d5a65d39df088b0332429f268c08be7a0671d176/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "c6c41be3b8586a1851069d6b7839f73ad8037592",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/c6c41be3b8586a1851069d6b7839f73ad8037592",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/c6c41be3b8586a1851069d6b7839f73ad8037592"
+        }
+      ]
+    },
+    {
+      "sha": "c6c41be3b8586a1851069d6b7839f73ad8037592",
+      "node_id": "C_kwDOMQnG39oAKGM2YzQxYmUzYjg1ODZhMTg1MTA2OWQ2Yjc4MzlmNzNhZDgwMzc1OTI",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-20T07:04:32Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-20T07:04:32Z"
+        },
+        "message": "Refactor login page to remove commented out code and improve error handling",
+        "tree": {
+          "sha": "8ff4dc55b00071f00f48bc4e86bad3ae262347cf",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/8ff4dc55b00071f00f48bc4e86bad3ae262347cf"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/c6c41be3b8586a1851069d6b7839f73ad8037592",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/c6c41be3b8586a1851069d6b7839f73ad8037592",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/c6c41be3b8586a1851069d6b7839f73ad8037592",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/c6c41be3b8586a1851069d6b7839f73ad8037592/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "89dc5b866763809678c6d0452fe591473cb3b0a8",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/89dc5b866763809678c6d0452fe591473cb3b0a8",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/89dc5b866763809678c6d0452fe591473cb3b0a8"
+        }
+      ]
+    },
+    {
+      "sha": "89dc5b866763809678c6d0452fe591473cb3b0a8",
+      "node_id": "C_kwDOMQnG39oAKDg5ZGM1Yjg2Njc2MzgwOTY3OGM2ZDA0NTJmZTU5MTQ3M2NiM2IwYTg",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-19T21:13:35Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-19T21:13:35Z"
+        },
+        "message": "Refactor login page to remove commented out code and improve error handling",
+        "tree": {
+          "sha": "1953b8f17a138302be83e288959ec2d3901a658e",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/1953b8f17a138302be83e288959ec2d3901a658e"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/89dc5b866763809678c6d0452fe591473cb3b0a8",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/89dc5b866763809678c6d0452fe591473cb3b0a8",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/89dc5b866763809678c6d0452fe591473cb3b0a8",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/89dc5b866763809678c6d0452fe591473cb3b0a8/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2610aee60f2ece5ac6307c2e6634eb80f63c19a8",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/2610aee60f2ece5ac6307c2e6634eb80f63c19a8",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/2610aee60f2ece5ac6307c2e6634eb80f63c19a8"
+        }
+      ]
+    },
+    {
+      "sha": "2610aee60f2ece5ac6307c2e6634eb80f63c19a8",
+      "node_id": "C_kwDOMQnG39oAKDI2MTBhZWU2MGYyZWNlNWFjNjMwN2MyZTY2MzRlYjgwZjYzYzE5YTg",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-19T16:35:25Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-19T16:35:25Z"
+        },
+        "message": "Refactor user service to improve findUser method",
+        "tree": {
+          "sha": "6729209a5543294b0d38c910cae84b60994b7725",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/6729209a5543294b0d38c910cae84b60994b7725"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/2610aee60f2ece5ac6307c2e6634eb80f63c19a8",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/2610aee60f2ece5ac6307c2e6634eb80f63c19a8",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/2610aee60f2ece5ac6307c2e6634eb80f63c19a8",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/2610aee60f2ece5ac6307c2e6634eb80f63c19a8/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "fd863c7b12fd65de30ce2ec4c2f24570c13c81eb",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/fd863c7b12fd65de30ce2ec4c2f24570c13c81eb",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/fd863c7b12fd65de30ce2ec4c2f24570c13c81eb"
+        }
+      ]
+    },
+    {
+      "sha": "fd863c7b12fd65de30ce2ec4c2f24570c13c81eb",
+      "node_id": "C_kwDOMQnG39oAKGZkODYzYzdiMTJmZDY1ZGUzMGNlMmVjNGMyZjI0NTcwYzEzYzgxZWI",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-19T12:37:28Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-19T12:37:28Z"
+        },
+        "message": "chore: Remove console.log statement in RegisterPage component",
+        "tree": {
+          "sha": "cba497183d41442dfec625d8c070f7bcccfea071",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/cba497183d41442dfec625d8c070f7bcccfea071"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/fd863c7b12fd65de30ce2ec4c2f24570c13c81eb",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/fd863c7b12fd65de30ce2ec4c2f24570c13c81eb",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/fd863c7b12fd65de30ce2ec4c2f24570c13c81eb",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/fd863c7b12fd65de30ce2ec4c2f24570c13c81eb/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "d9fd21e36a7a1c5c1de6006f3a664c68d4f04512",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/d9fd21e36a7a1c5c1de6006f3a664c68d4f04512",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/d9fd21e36a7a1c5c1de6006f3a664c68d4f04512"
+        }
+      ]
+    },
+    {
+      "sha": "d9fd21e36a7a1c5c1de6006f3a664c68d4f04512",
+      "node_id": "C_kwDOMQnG39oAKGQ5ZmQyMWUzNmE3YTFjNWMxZGU2MDA2ZjNhNjY0YzY4ZDRmMDQ1MTI",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-19T11:43:32Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-19T11:43:32Z"
+        },
+        "message": "chore: Update npm dependencies for @nestjs/jwt, @nestjs/passport, @nestjs/schematics, and @nestjs/swagger",
+        "tree": {
+          "sha": "97c5d8fc4d5a4261546a9bace8d6dcbbd0428cd9",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/97c5d8fc4d5a4261546a9bace8d6dcbbd0428cd9"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/d9fd21e36a7a1c5c1de6006f3a664c68d4f04512",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/d9fd21e36a7a1c5c1de6006f3a664c68d4f04512",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/d9fd21e36a7a1c5c1de6006f3a664c68d4f04512",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/d9fd21e36a7a1c5c1de6006f3a664c68d4f04512/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "fc9401c955870b0dcf7e5bfb1e77f6257aab4356",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/fc9401c955870b0dcf7e5bfb1e77f6257aab4356",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/fc9401c955870b0dcf7e5bfb1e77f6257aab4356"
+        }
+      ]
+    },
+    {
+      "sha": "fc9401c955870b0dcf7e5bfb1e77f6257aab4356",
+      "node_id": "C_kwDOMQnG39oAKGZjOTQwMWM5NTU4NzBiMGRjZjdlNWJmYjFlNzdmNjI1N2FhYjQzNTY",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-18T22:08:54Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-18T22:08:54Z"
+        },
+        "message": "chore: Update npm dependencies for @nestjs/jwt, @nestjs/passport, @nestjs/schematics, and @nestjs/swagger",
+        "tree": {
+          "sha": "5a3fec99851a9aca9a416020ccadb34682ddb240",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/5a3fec99851a9aca9a416020ccadb34682ddb240"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/fc9401c955870b0dcf7e5bfb1e77f6257aab4356",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/fc9401c955870b0dcf7e5bfb1e77f6257aab4356",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/fc9401c955870b0dcf7e5bfb1e77f6257aab4356",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/fc9401c955870b0dcf7e5bfb1e77f6257aab4356/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "1d146e325097b34da1a671292613c6872f2ea97e",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/1d146e325097b34da1a671292613c6872f2ea97e",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/1d146e325097b34da1a671292613c6872f2ea97e"
+        }
+      ]
+    },
+    {
+      "sha": "1d146e325097b34da1a671292613c6872f2ea97e",
+      "node_id": "C_kwDOMQnG39oAKDFkMTQ2ZTMyNTA5N2IzNGRhMWE2NzEyOTI2MTNjNjg3MmYyZWE5N2U",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-18T20:57:00Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-18T20:57:00Z"
+        },
+        "message": "Refactor getUsers to getTrips for improved clarity and consistency",
+        "tree": {
+          "sha": "1aa2e3cb234ef59eb0c9c30bae6eead4dbbea157",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/1aa2e3cb234ef59eb0c9c30bae6eead4dbbea157"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/1d146e325097b34da1a671292613c6872f2ea97e",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/1d146e325097b34da1a671292613c6872f2ea97e",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/1d146e325097b34da1a671292613c6872f2ea97e",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/1d146e325097b34da1a671292613c6872f2ea97e/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "472c0b22e1a1055a84294bde4b82e31162353445",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/472c0b22e1a1055a84294bde4b82e31162353445",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/472c0b22e1a1055a84294bde4b82e31162353445"
+        }
+      ]
+    },
+    {
+      "sha": "472c0b22e1a1055a84294bde4b82e31162353445",
+      "node_id": "C_kwDOMQnG39oAKDQ3MmMwYjIyZTFhMTA1NWE4NDI5NGJkZTRiODJlMzExNjIzNTM0NDU",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-18T19:57:15Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-18T19:57:15Z"
+        },
+        "message": "chore: Update npm dependencies for @nestjs/jwt, @nestjs/passport, @nestjs/schematics, and @nestjs/swagger",
+        "tree": {
+          "sha": "9b90682a69ceb8c68a1fb508be513c97afa690f6",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/9b90682a69ceb8c68a1fb508be513c97afa690f6"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/472c0b22e1a1055a84294bde4b82e31162353445",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/472c0b22e1a1055a84294bde4b82e31162353445",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/472c0b22e1a1055a84294bde4b82e31162353445",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/472c0b22e1a1055a84294bde4b82e31162353445/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "046706421b35e92be91ea8681eb71c3768a9f1df",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/046706421b35e92be91ea8681eb71c3768a9f1df",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/046706421b35e92be91ea8681eb71c3768a9f1df"
+        }
+      ]
+    },
+    {
+      "sha": "046706421b35e92be91ea8681eb71c3768a9f1df",
+      "node_id": "C_kwDOMQnG39oAKDA0NjcwNjQyMWIzNWU5MmJlOTFlYTg2ODFlYjcxYzM3NjhhOWYxZGY",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-17T18:46:04Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-17T18:46:04Z"
+        },
+        "message": "Pol Gubau; MW-",
+        "tree": {
+          "sha": "bb17899568bd5661d1c92427c7d43c02a4e3fb2e",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/bb17899568bd5661d1c92427c7d43c02a4e3fb2e"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/046706421b35e92be91ea8681eb71c3768a9f1df",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/046706421b35e92be91ea8681eb71c3768a9f1df",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/046706421b35e92be91ea8681eb71c3768a9f1df",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/046706421b35e92be91ea8681eb71c3768a9f1df/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "746be131656d116d3fc8aabedf11cd5f678cf3b2",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/746be131656d116d3fc8aabedf11cd5f678cf3b2",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/746be131656d116d3fc8aabedf11cd5f678cf3b2"
+        }
+      ]
+    },
+    {
+      "sha": "746be131656d116d3fc8aabedf11cd5f678cf3b2",
+      "node_id": "C_kwDOMQnG39oAKDc0NmJlMTMxNjU2ZDExNmQzZmM4YWFiZWRmMTFjZDVmNjc4Y2YzYjI",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T17:21:26Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T17:21:26Z"
+        },
+        "message": "Pol Gubau; MW-",
+        "tree": {
+          "sha": "de565934ad28f592c051ecf46ee57400bf70bfb8",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/de565934ad28f592c051ecf46ee57400bf70bfb8"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/746be131656d116d3fc8aabedf11cd5f678cf3b2",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/746be131656d116d3fc8aabedf11cd5f678cf3b2",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/746be131656d116d3fc8aabedf11cd5f678cf3b2",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/746be131656d116d3fc8aabedf11cd5f678cf3b2/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "a3f235b0a254f3dccd64c5c6bf2e8d4d5baf36dd",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/a3f235b0a254f3dccd64c5c6bf2e8d4d5baf36dd",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/a3f235b0a254f3dccd64c5c6bf2e8d4d5baf36dd"
+        }
+      ]
+    },
+    {
+      "sha": "a3f235b0a254f3dccd64c5c6bf2e8d4d5baf36dd",
+      "node_id": "C_kwDOMQnG39oAKGEzZjIzNWIwYTI1NGYzZGNjZDY0YzVjNmJmMmU4ZDRkNWJhZjM2ZGQ",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T09:00:05Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T09:00:05Z"
+        },
+        "message": "chore: Update npm dependencies for @nestjs/jwt, @nestjs/passport, @nestjs/schematics, and @nestjs/swagger",
+        "tree": {
+          "sha": "f962d66d9f65bcc3722b26d1d04d8e7a52c547fc",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/f962d66d9f65bcc3722b26d1d04d8e7a52c547fc"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/a3f235b0a254f3dccd64c5c6bf2e8d4d5baf36dd",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/a3f235b0a254f3dccd64c5c6bf2e8d4d5baf36dd",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/a3f235b0a254f3dccd64c5c6bf2e8d4d5baf36dd",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/a3f235b0a254f3dccd64c5c6bf2e8d4d5baf36dd/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "f3bab59893ed7d1ff8b20f278eb4d6f7c5fb3ae6",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/f3bab59893ed7d1ff8b20f278eb4d6f7c5fb3ae6",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/f3bab59893ed7d1ff8b20f278eb4d6f7c5fb3ae6"
+        }
+      ]
+    },
+    {
+      "sha": "f3bab59893ed7d1ff8b20f278eb4d6f7c5fb3ae6",
+      "node_id": "C_kwDOMQnG39oAKGYzYmFiNTk4OTNlZDdkMWZmOGIyMGYyNzhlYjRkNmY3YzVmYjNhZTY",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T08:55:18Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T08:55:18Z"
+        },
+        "message": "Pol Gubau; MW-",
+        "tree": {
+          "sha": "4c5c79fd904ff7d582f307bc4989fefac6e3ef18",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/4c5c79fd904ff7d582f307bc4989fefac6e3ef18"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/f3bab59893ed7d1ff8b20f278eb4d6f7c5fb3ae6",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/f3bab59893ed7d1ff8b20f278eb4d6f7c5fb3ae6",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/f3bab59893ed7d1ff8b20f278eb4d6f7c5fb3ae6",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/f3bab59893ed7d1ff8b20f278eb4d6f7c5fb3ae6/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "ba088ef4644a1c07e7f041a91caf0031f1b44f15",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/ba088ef4644a1c07e7f041a91caf0031f1b44f15",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/ba088ef4644a1c07e7f041a91caf0031f1b44f15"
+        }
+      ]
+    },
+    {
+      "sha": "ba088ef4644a1c07e7f041a91caf0031f1b44f15",
+      "node_id": "C_kwDOMQnG39oAKGJhMDg4ZWY0NjQ0YTFjMDdlN2YwNDFhOTFjYWYwMDMxZjFiNDRmMTU",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T08:27:00Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T08:27:00Z"
+        },
+        "message": "Pol Gubau; MW-",
+        "tree": {
+          "sha": "305494103cd9bbc26cb99df162a706d0f8a3cee8",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/305494103cd9bbc26cb99df162a706d0f8a3cee8"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/ba088ef4644a1c07e7f041a91caf0031f1b44f15",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/ba088ef4644a1c07e7f041a91caf0031f1b44f15",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/ba088ef4644a1c07e7f041a91caf0031f1b44f15",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/ba088ef4644a1c07e7f041a91caf0031f1b44f15/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "ca8632d9e6afd78441104e6352adc6e107a2b05a",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/ca8632d9e6afd78441104e6352adc6e107a2b05a",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/ca8632d9e6afd78441104e6352adc6e107a2b05a"
+        }
+      ]
+    },
+    {
+      "sha": "ca8632d9e6afd78441104e6352adc6e107a2b05a",
+      "node_id": "C_kwDOMQnG39oAKGNhODYzMmQ5ZTZhZmQ3ODQ0MTEwNGU2MzUyYWRjNmUxMDdhMmIwNWE",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T08:20:21Z"
+        },
+        "committer": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T08:20:21Z"
+        },
+        "message": "chore: Update Dockerfile and docker-compose.yml for development environment",
+        "tree": {
+          "sha": "d7259e116ec3c3461ce8cede1b83514d2aec27d2",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/d7259e116ec3c3461ce8cede1b83514d2aec27d2"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/ca8632d9e6afd78441104e6352adc6e107a2b05a",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/ca8632d9e6afd78441104e6352adc6e107a2b05a",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/ca8632d9e6afd78441104e6352adc6e107a2b05a",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/ca8632d9e6afd78441104e6352adc6e107a2b05a/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "8a4203e6b40bcbd349205a2e492984e2fafa5293",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/8a4203e6b40bcbd349205a2e492984e2fafa5293",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/8a4203e6b40bcbd349205a2e492984e2fafa5293"
+        }
+      ]
+    },
+    {
+      "sha": "8a4203e6b40bcbd349205a2e492984e2fafa5293",
+      "node_id": "C_kwDOMQnG39oAKDhhNDIwM2U2YjQwYmNiZDM0OTIwNWEyZTQ5Mjk4NGUyZmFmYTUyOTM",
+      "commit": {
+        "author": {
+          "name": "Pol Gubau Amores",
+          "email": "gubaupol@gmail.com",
+          "date": "2024-08-15T08:17:18Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2024-08-15T08:17:18Z"
+        },
+        "message": "Merge pull request #29 from tripelseapp/28-end-follow-fns\n\n28 end follow fns",
+        "tree": {
+          "sha": "ccca27a3b04ff299658479e064c84de7a62d5a14",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/git/trees/ccca27a3b04ff299658479e064c84de7a62d5a14"
+        },
+        "url": "https://api.github.com/repos/tripelseapp/tripelse/git/commits/8a4203e6b40bcbd349205a2e492984e2fafa5293",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJmvbmOCRC1aQ7uu5UhlAAAfbYQAJhYP8SDu9S6CPeseAkp3xew\nN8/qTp3QXuiRFHa/cJXWt8uB3pdoLOWngy26xh2bkJo1R312wyTNGu5yikA/vKNt\n5byji7U3mI/qmvUy2/oM/jV6beGzzowFRTq1fQuqi8MzAWneo/w1Vfq6hRvMB7br\nEIpy1wxOlZ/j3eDIpt6LMMsew/yxBCNHfjMd9Lb7tnd+tYXqkf5qlxxVU2WEpTnF\nztW81Cf5uYV57Kznpc8b1HbkZvAzb1+6PglKR79PMGfEBdmNWZuFlVufyM9EWetj\nDbqsuJAptpSf3PHeouwYFNxDSRCbfDSgOsyOXD5z6Un7nesQKzqwFj5YEjZDEpqi\nYVAQaCkxHcbUUjfKu35niMx5AoLhSJaDgi9RP6xvOagiCRccRZp5mwPYE6RJ8Jtn\nCrAOOfN75QA6mWEmKsKn657h75dbmxHbkB/RTUmn60dQcGZLXZXJunG4XWyre4NX\nXSQDPPJPHWtWb+l9T46PDEdlKZFVmbiSko5cWteIuV1Xcbjanykj4gDdb2dLy9Iz\n9jEJG9cFfiHXJiM5lQngDvbHzMxUD1WNkuti9GaXaQoc1quVrDntUAMloiCCvTXn\nXB8FMMPS82LJh/cHPIR73FmtASWlOsPJzjBjQWwbntFdTIhFjM/tzVbr3Q2O0itD\nfddMb6KgRwccsFc5BZ0v\n=+eOq\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree ccca27a3b04ff299658479e064c84de7a62d5a14\nparent 05c6c4635216dd9d915ec5bf2ac1f55944e46880\nparent 16a590670eb38ebacd49ec13832608223488d043\nauthor Pol Gubau Amores <gubaupol@gmail.com> 1723709838 +0200\ncommitter GitHub <noreply@github.com> 1723709838 +0200\n\nMerge pull request #29 from tripelseapp/28-end-follow-fns\n\n28 end follow fns",
+          "verified_at": "2025-01-11T19:53:10Z"
+        }
+      },
+      "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/8a4203e6b40bcbd349205a2e492984e2fafa5293",
+      "html_url": "https://github.com/tripelseapp/tripelse/commit/8a4203e6b40bcbd349205a2e492984e2fafa5293",
+      "comments_url": "https://api.github.com/repos/tripelseapp/tripelse/commits/8a4203e6b40bcbd349205a2e492984e2fafa5293/comments",
+      "author": {
+        "login": "PolGubau",
+        "id": 63197171,
+        "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/PolGubau",
+        "html_url": "https://github.com/PolGubau",
+        "followers_url": "https://api.github.com/users/PolGubau/followers",
+        "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+        "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+        "repos_url": "https://api.github.com/users/PolGubau/repos",
+        "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "05c6c4635216dd9d915ec5bf2ac1f55944e46880",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/05c6c4635216dd9d915ec5bf2ac1f55944e46880",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/05c6c4635216dd9d915ec5bf2ac1f55944e46880"
+        },
+        {
+          "sha": "16a590670eb38ebacd49ec13832608223488d043",
+          "url": "https://api.github.com/repos/tripelseapp/tripelse/commits/16a590670eb38ebacd49ec13832608223488d043",
+          "html_url": "https://github.com/tripelseapp/tripelse/commit/16a590670eb38ebacd49ec13832608223488d043"
+        }
+      ]
+    }
+  ],
+  "contributors": [
+    {
+      "login": "PolGubau",
+      "id": 63197171,
+      "node_id": "MDQ6VXNlcjYzMTk3MTcx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63197171?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/PolGubau",
+      "html_url": "https://github.com/PolGubau",
+      "followers_url": "https://api.github.com/users/PolGubau/followers",
+      "following_url": "https://api.github.com/users/PolGubau/following{/other_user}",
+      "gists_url": "https://api.github.com/users/PolGubau/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/PolGubau/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/PolGubau/subscriptions",
+      "organizations_url": "https://api.github.com/users/PolGubau/orgs",
+      "repos_url": "https://api.github.com/users/PolGubau/repos",
+      "events_url": "https://api.github.com/users/PolGubau/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/PolGubau/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false,
+      "contributions": 145
+    },
+    {
+      "login": "albertarrebola",
+      "id": 83241688,
+      "node_id": "MDQ6VXNlcjgzMjQxNjg4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83241688?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertarrebola",
+      "html_url": "https://github.com/albertarrebola",
+      "followers_url": "https://api.github.com/users/albertarrebola/followers",
+      "following_url": "https://api.github.com/users/albertarrebola/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertarrebola/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertarrebola/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertarrebola/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertarrebola/orgs",
+      "repos_url": "https://api.github.com/users/albertarrebola/repos",
+      "events_url": "https://api.github.com/users/albertarrebola/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertarrebola/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false,
+      "contributions": 11
+    },
+    {
+      "login": "turbobot-temp",
+      "id": 145653950,
+      "node_id": "U_kgDOCK6Avg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145653950?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/turbobot-temp",
+      "html_url": "https://github.com/turbobot-temp",
+      "followers_url": "https://api.github.com/users/turbobot-temp/followers",
+      "following_url": "https://api.github.com/users/turbobot-temp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/turbobot-temp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/turbobot-temp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/turbobot-temp/subscriptions",
+      "organizations_url": "https://api.github.com/users/turbobot-temp/orgs",
+      "repos_url": "https://api.github.com/users/turbobot-temp/repos",
+      "events_url": "https://api.github.com/users/turbobot-temp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/turbobot-temp/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false,
+      "contributions": 3
+    },
+    {
+      "login": "albertarrebola08",
+      "id": 104431726,
+      "node_id": "U_kgDOBjmAbg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104431726?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertarrebola08",
+      "html_url": "https://github.com/albertarrebola08",
+      "followers_url": "https://api.github.com/users/albertarrebola08/followers",
+      "following_url": "https://api.github.com/users/albertarrebola08/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertarrebola08/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertarrebola08/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertarrebola08/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertarrebola08/orgs",
+      "repos_url": "https://api.github.com/users/albertarrebola08/repos",
+      "events_url": "https://api.github.com/users/albertarrebola08/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertarrebola08/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false,
+      "contributions": 2
+    }
+  ]
+}

@@ -1,27 +1,49 @@
-import fs from "node:fs/promises";
+import { execSync } from "node:child_process";
+import fs from "node:fs";
 import path from "node:path";
 
-export async function generateStaticPage(data, outputDir, theme) {
-	const html = `
-    <!DOCTYPE html>
-    <html lang="en">
-      <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Changelog</title>
-        <link rel="stylesheet" href="styles.css" />
-      </head>
-      <body class="${theme}">
-        <div id="root"></div>
-        <script>
-          window.__DATA__ = ${JSON.stringify(data)};
-        </script>
-        <script src="main.js"></script>
-      </body>
-    </html>
-  `;
+// Función para ejecutar el comando de build de React
+function buildReactApp() {
+	return new Promise((resolve, reject) => {
+		exec(
+			"npm run build",
+			{ cwd: path.resolve(__dirname, "../changelog-ui") },
+			(error, stdout, stderr) => {
+				if (error) {
+					reject(`Error al ejecutar build de React: ${stderr}`);
+				} else {
+					resolve(stdout);
+				}
+			},
+		);
+	});
+}
 
-	await fs.mkdir(outputDir, { recursive: true });
-	await fs.writeFile(path.join(outputDir, "index.html"), html, "utf-8");
-	console.log("✅ Página estática generada.");
+export async function generateStaticPage(data, outputDir, theme) {
+	// Guarda los datos en la carpeta `data` del proyecto root
+	const dataDir = path.join(process.cwd(), "data");
+	fs.mkdirSync(dataDir, { recursive: true });
+	fs.writeFileSync(
+		path.join(dataDir, "commits.json"),
+		JSON.stringify(data, null, 2),
+	);
+
+	// Genera el build estático con Vite
+	console.log("🛠 Generando build estático...");
+	execSync("cd changelog-ui && npm run build", { stdio: "inherit" });
+
+	// Copiar el build desde changelog-ui/dist al outputDir
+	const buildDir = path.join(process.cwd(), "changelog-ui", "dist");
+	const outputDirectory = path.join(process.cwd(), outputDir);
+
+	if (fs.existsSync(outputDirectory)) {
+		// Limpiar la carpeta de salida si ya existe
+		rmSync(outputDirectory, { recursive: true, force: true });
+	}
+
+	// Copiar todos los archivos del build generado
+	fs.mkdirSync(outputDirectory, { recursive: true });
+	fs.cpSync(buildDir, outputDirectory, { recursive: true });
+
+	console.log(`🎉 ¡Página generada en ${outputDir}!`);
 }
